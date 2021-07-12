@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rafaelchun@gmail.com
+	name = Rafael Chun
